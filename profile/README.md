@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Q-Project-LM/Q-Project-LM.github.io/main/assets/og-image.png" alt="Q Project" width="100%" />
+<img src="https://q-project-lm.github.io/assets/q-logo.svg" alt="Q Project" width="100%" />
 
 # Q Project
 
